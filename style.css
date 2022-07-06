@@ -16,15 +16,71 @@
     padding-top: 320px;
     color:darkcyan;
 }
+.text-center{
+    text-align: center;
+}
 .para{
     font-size: 20px;
     color:cyan;
 }
-.button{
-    background-color: rgb(6, 65, 65);
-    color:white !important;
+.button_first_sec{
+    background-color: rgb(13, 110, 111) !important;
     padding: 10px 15px;
-    text-align: center;
-    text-decoration: none !important;
-    display: inline-block;
+    border-radius: 10px;
 }
+a {
+    text-decoration: none !important;
+    color:white !important;
+}
+.Donation-heading{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.donations{
+    width: 100%;
+    text-align: center;
+   
+}
+.donations div{
+   display: inline-block;
+   padding: 40px;
+   font-size: 30px;
+   background-color: antiquewhite;
+   border-radius: 5px;
+   font-weight: 600;
+}
+
+.subscribe-section{
+    margin-top: 20px;
+}
+
+.subscribe-header h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.subscribe-section .from{
+    display: inline-block;
+    min-width: 600px;
+    background-color: antiquewhite;
+    padding: 50px;
+}
+.subscribe-section .from input{
+    background-color: #ccc;
+    width: 250px;
+    height: 60px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: unset;
+}
+
+.subscribe-section .from button{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(230, 59, 59);
+    color: #fff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
