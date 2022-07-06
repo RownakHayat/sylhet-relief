@@ -65,7 +65,7 @@ a {
     min-width: 600px;
     background-color: antiquewhite;
     padding: 50px;
-}
+} 
 .subscribe-section .from input{
     background-color: #ccc;
     width: 250px;
@@ -84,3 +84,12 @@ a {
     border-bottom-right-radius: 5px;
 }
 
+.Fotter-menu{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(5, 57, 57);
+  color: white;
+  text-align: center;
+}
