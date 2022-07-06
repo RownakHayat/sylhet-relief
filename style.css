@@ -22,9 +22,9 @@
 }
 .button{
     background-color: rgb(6, 65, 65);
-    color:white;
+    color:white !important;
     padding: 10px 15px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none !important;
     display: inline-block;
 }
