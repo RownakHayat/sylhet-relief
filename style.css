@@ -138,7 +138,7 @@ a {
 
 .our-donation-info .info-items .item{
     width: 33%;
-    background-color: rgb(140, 196, 178);
+    background-color:rgb(214, 195, 172);
     padding: 20px;
 }
 .our-donation-info .info-items .item span{
@@ -150,14 +150,14 @@ a {
 
 .our-donation-info .info-items .item p{
     font-size: 14px;
-    color: #565656;
+    
 }
 
 .our-donation-info .info-items .item:nth-child(2){
-    background-color: aquamarine;
+    background-color:bisque
 }
 .our-donation-info .info-items .item:nth-child(3){
-    background-color: plum;
+    background-color:rgb(214, 195, 172);
 }
 .flood-situtation{
     width: 100%;
@@ -229,7 +229,4 @@ a {
     background-color: rgb(5, 57, 57);
     color: white;
     text-align: center;
-}
-. news{
-    color: rgb(230, 59, 59) !important;
 }
